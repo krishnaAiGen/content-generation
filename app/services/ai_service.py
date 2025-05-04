@@ -54,4 +54,4 @@ class AIService:
             "status": "success",
             "content": f"Generated video for prompt: {prompt}",
             "parameters": parameters or {}
-        } 
+        }
